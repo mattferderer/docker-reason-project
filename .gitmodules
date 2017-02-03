@@ -1,0 +1,3 @@
+[submodule "ReasonProject"]
+	path = ReasonProject
+	url = https://github.com/reasonml/ReasonProject
